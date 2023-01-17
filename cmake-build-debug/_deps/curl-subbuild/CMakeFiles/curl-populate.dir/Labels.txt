@@ -1,0 +1,14 @@
+# Target labels
+ curl-populate
+# Source files and their labels
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate.rule
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete.rule
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build.rule
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure.rule
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download.rule
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install.rule
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir.rule
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch.rule
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test.rule
+F:/__C++/Skillbox/30 Connecting the CPR Library/30.4.1 User Responses/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update.rule
